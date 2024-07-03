@@ -86,7 +86,7 @@ button.white.second {
 
 body {
     width: 100%;
-    background-image: url(img/da_vinci/human.jpg);
+    /* background-image: url(img/da_vinci/human.jpg); */
     background-repeat: no-repeat; 
     background-size: contain;
 }
